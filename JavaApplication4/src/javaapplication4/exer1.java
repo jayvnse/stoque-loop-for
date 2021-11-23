@@ -15,7 +15,6 @@ public class exer1 {
         os mesmo números um ao lado do outro. Utilize o comando for. */
         
         for (int i=1; i<=20; i++){
-            System.out.println(i);
             System.out.print(i);
         }
     }
